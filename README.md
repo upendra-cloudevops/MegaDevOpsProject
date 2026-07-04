@@ -28,8 +28,3 @@ This repository contains a simple Node.js API and a React client used for a user
    ```
 
 5. Open `http://localhost:3000` in your browser to use the application.
-
-The client now displays an animated banner welcoming you to **DevOps Shack**.
-=======
-# MegaDevOpsProject
->>>>>>> 122184d906ed66824ef7f7162318edc095b72f38
